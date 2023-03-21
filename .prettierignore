@@ -1,0 +1,9 @@
+**/.git
+**/.svn
+**/.hg
+
+public
+node_modules
+.env
+.cache
+yarn.lock
