@@ -2,7 +2,7 @@
 
 2022-23 version of my portfolio [Ibrahim Raimi](https://ibrahimraimi.vercel.app) built with JavaScript, CSS, HTML [Parcel](https://parceljs.org/), and hosted on [Vercel](https://vercel.com)
 
-![Banner](https://i.ibb.co/sFghs4T/screenshot-rocks-3.png)
+![Banner](https://i.ibb.co/j4t5fh5/127shots-so.png)
 
 
 
