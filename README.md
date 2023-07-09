@@ -1,6 +1,6 @@
-# Folio v2022-23
+# Folio v2023
 
-2022-23 version of my portfolio [Ibrahim Raimi](https://ibrahimraimi.vercel.app) built with JavaScript, CSS, HTML [Parcel](https://parceljs.org/), and hosted on [Vercel](https://vercel.com)
+2023 version of my portfolio [Ibrahim Raimi](https://ibrahimraimi.vercel.app) built with JavaScript, CSS, HTML [Parcel](https://parceljs.org/), and hosted on [Vercel](https://vercel.com)
 
 ![Banner](https://i.ibb.co/j4t5fh5/127shots-so.png)
 
